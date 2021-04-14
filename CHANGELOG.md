@@ -1,3 +1,15 @@
+# v0.1.5 (Wed Apr 14 2021)
+
+#### 🐛 Bug Fix
+
+- create a whitespace deploy [#2](https://github.com/genagain/learnstorybook-design-system/pull/2) (genohta@Gens-MacBook-Pro.local)
+
+#### Authors: 1
+
+- Gen Ohta ([@genagain](https://github.com/genagain))
+
+---
+
 # v0.1.1 (Wed Apr 14 2021)
 
 #### ⚠️ Pushed to `main`
