@@ -2,6 +2,19 @@
 
 #### ⚠️ Pushed to `main`
 
+- add release script (genohta@Gens-MacBook-Pro.local)
+- v0.1.1 (genohta@Gens-MacBook-Pro.local)
+
+#### Authors: 1
+
+- Gen Ohta (genohta@Gens-MacBook-Pro.local)
+
+---
+
+# v0.1.1 (Wed Apr 14 2021)
+
+#### ⚠️ Pushed to `main`
+
 - v0.1.1 (genohta@Gens-MacBook-Pro.local)
 
 #### Authors: 1
